@@ -11,4 +11,3 @@ long	    64-bit integral value	        123
 float	    32-bit floating-point value	  123.45f
 double	  64-bit floating-point value	  123.456
 char	    16-bit Unicode value	        'a'
-
